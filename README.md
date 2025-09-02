@@ -1,4 +1,4 @@
-# 🏅 Olympics SQL Analysis
+# 🏅 Excecutive Summary
 
 An in-depth SQL-based exploration of Olympic Games history — uncovering trends in participation, medal distribution, athlete performance, and national success. This project leverages **PostgreSQL** with advanced features like **CTEs**, **window functions**, and pivoting via `crosstab`.
 
